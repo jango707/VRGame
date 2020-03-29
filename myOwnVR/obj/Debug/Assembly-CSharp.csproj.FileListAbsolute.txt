@@ -1,0 +1,2 @@
+C:\Users\jangb\Documents\quarantineday9\myOwnVR\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\jangb\Documents\quarantineday9\myOwnVR\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
